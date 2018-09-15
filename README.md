@@ -7,4 +7,4 @@ Pascal tends to be spaghetti code, and we never learned Object Oriented design, 
 
 ![llama-rama diskette](disk.jpg)
 
-I was in Model United Nations representing Namibia for Intellectual Property rights. I got to wear a blazer and go to the University. 
+I was in Model United Nations representing Namibia for Intellectual Property rights. I got to wear a blazer and go to the University. But there's only 1.44 MB, so that made room for LLAMA-RAMA.
